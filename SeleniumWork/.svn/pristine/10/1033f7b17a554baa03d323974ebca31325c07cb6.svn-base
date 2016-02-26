@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Data>
-	<TestData name='BrowserType'>Chrome</TestData>
-	<TestData name='LoginURL'>http://home.hp.com</TestData>	
-</Data>

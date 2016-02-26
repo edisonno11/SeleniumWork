@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<flow>
-	<FlowName class = "com.dreamworks.selenium.businessLib.Login">LoadOR|SeleniumAdditional/OR/SampleTestCaseOR.xml</FlowName>
-	<FlowName class = "com.dreamworks.selenium.businessLib.Login">loginTest</FlowName>
-	<FlowName class = "com.dreamworks.selenium.businessLib.Login">EnterHPE</FlowName>
-</flow>
