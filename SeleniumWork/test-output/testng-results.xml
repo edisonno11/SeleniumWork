@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="21541" started-at="2016-02-15T13:50:39Z" finished-at="2016-02-15T13:51:01Z">
+    <groups>
+    </groups>
+    <test name="test12" duration-ms="21541" started-at="2016-02-15T13:50:39Z" finished-at="2016-02-15T13:51:01Z">
+      <class name="com.dreamworks.selenium.TestNG.SampleTestCase">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:[SampleTestCase passed=0 failed=0 skipped=0]]" name="OpenBrowser" duration-ms="5391" started-at="2016-02-15T21:50:39Z" finished-at="2016-02-15T21:50:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="EnterHPE()[pri:0, instance:[SampleTestCase passed=0 failed=0 skipped=0]]" name="EnterHPE" duration-ms="16137" started-at="2016-02-15T21:50:45Z" finished-at="2016-02-15T21:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterHPE -->
+      </class> <!-- com.dreamworks.selenium.TestNG.SampleTestCase -->
+    </test> <!-- test12 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
